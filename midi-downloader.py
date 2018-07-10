@@ -19,9 +19,9 @@ from os.path import splitext
 
 # CONSTANTS
 # The page to start on
-STARTING_URL = 'http://www.classicalmidi.co.uk/page20.htm'
+STARTING_URL = '' #EDIT THIS
 # Where to save the files
-DESTINATION_FOLDER_PATH = '/Users/Celeste/Downloads/midiDownloads'
+DESTINATION_FOLDER_PATH = '' #EDIT THIS
 # Whether or not to run recursively on links found on the starting page
 SCAN_CHILD_PAGES = True
 
